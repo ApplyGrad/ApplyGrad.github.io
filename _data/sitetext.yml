@@ -176,8 +176,8 @@ zh: &DEFAULT_ZH_HANS
     buttonlink: "#联系"
 
   services:
-    title: "服务"
-    text: "服务内容"
+    title: "服务内容"
+    text: "我们竭诚提供以下服务"
     section: 服务
     list:
       - title: "111"
