@@ -172,7 +172,7 @@ zh: &DEFAULT_ZH_HANS
   header:
     title: 欢迎访问留学工作室！
     text: It's Nice To Meet You！
-    button: Tell Me More
+    button: 联系我们
     buttonlink: "#联系"
 
   services:
@@ -192,40 +192,40 @@ zh: &DEFAULT_ZH_HANS
 
   portfolio:
     title: "过往学生介绍"
-    text: "777"
+    text: "我们曾令无数学子圆梦研究生！"
     section: 博客
     closebutton: "关闭介绍"
 
   timeline:
-    title: "时间线"
-    text: "888"
+    title: "申研时间线"
+    text: "一步步祝您成功"
     section: 时间线
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "学校"
+        year: "6月"
+        desc: "111"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "文书"
+        year: "8月"
+        desc: "222"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "申请"
+        year: "10月"
+        desc: "333"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "结果"
+        year: "次年3月"
+        desc: "444"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "offer <br> 多多!"
 
   about:
     title: "关于我们"
