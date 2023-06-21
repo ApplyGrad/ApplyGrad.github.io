@@ -34,6 +34,27 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+# Chinese  (zh-CN Chinese - China)
+# --------------------------------
+zh: &DEFAULT_ZH_HANS
+  nav:
+    - title: "服务内容"
+      section: 服务
+    - title: "成功案例"
+      section: 博客
+    - title: "关于我们"
+      section: 关于我们
+    - title: "申研时间线"
+      section: 时间线
+    - title: "导师团队"
+      section: 团队
+    - title: "联系我们"
+      section: 联系
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
+zh-SG:
+  <<: *DEFAULT_ZH_HANS
+
 # Spanish
 # -------
 es: &DEFAULT_ES
