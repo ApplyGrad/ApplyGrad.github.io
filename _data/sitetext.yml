@@ -301,7 +301,7 @@ zh: &DEFAULT_ZH_HANS
     message: "留言*"
     message-validation: "请告诉我们您的申研意向"
     subject: "内容已提交"
-    submit: "发送"
+    submit: "提交"
 
   footer:
     legal: "Privacy Policy"
