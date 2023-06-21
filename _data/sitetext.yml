@@ -198,7 +198,7 @@ zh: &DEFAULT_ZH_HANS
 
   timeline:
     title: "申研时间线"
-    text: "一步步祝您成功"
+    text: "一步步助您成功"
     section: 时间线
     # left is the default
     #start_align: "left"
@@ -225,7 +225,7 @@ zh: &DEFAULT_ZH_HANS
         alt:
         # you can enforce the alignment
         align: right
-    end: "offer <br> 多多!"
+    end: "祝您 <br> offer <br> 多多!"
 
   about:
     title: "关于我们"
