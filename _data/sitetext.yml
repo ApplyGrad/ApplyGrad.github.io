@@ -170,16 +170,19 @@ en-AU:
 # --------------------------------
 zh: &DEFAULT_ZH_HANS
   header:
-    title: 欢迎访问留学工作室！
-    text: It's Nice To Meet You！
+    title: 欢迎访问云起留学工作室官方主页！
+    text: 云端梦想，起航未来！
     button: 联系我们
     buttonlink: "#联系"
 
   services:
     title: "服务内容"
-    text: "我们竭诚提供以下服务"
+    text: "我们将竭诚为您提供以下服务"
     section: 服务
     list:
+      - title: "111"
+        desc: "222"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "111"
         desc: "222"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
