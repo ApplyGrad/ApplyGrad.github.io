@@ -305,12 +305,12 @@ zh: &DEFAULT_ZH_HANS
     name: "昵称*"
     name-validation: "请输入您的昵称。"
     email: "邮箱*"
-    email-validation: "请留下您的邮箱。"
+    email-validation: "请输入您的邮箱。"
     phone: "电话*"
     phone-validation: "请输入您的电话号码。"
     message: "毕业院校、成绩、申研意向*"
-    message-validation: "留言"
-    subject: "内容已提交"
+    message-validation: "请输入您的留言。"
+    subject: "内容已提交！"
     submit: "提交"
 
   footer:
