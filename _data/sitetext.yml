@@ -194,10 +194,10 @@ zh: &DEFAULT_ZH_HANS
         icon: fas fa-laptop
       - title: "录取指导"
         desc: "学校面试辅导、录取选校建议等"
-        icon: fab fa-building-columns
+        icon: fab fa-file-certificate
       - title: "咨询服务"
         desc: "导师每周开放咨询时间"
-        icon: fab fa-graduation-cap
+        icon: fab fa-chalkboard-user
 
 
   portfolio:
