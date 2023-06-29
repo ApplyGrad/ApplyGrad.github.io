@@ -170,7 +170,7 @@ en-AU:
 # --------------------------------
 zh: &DEFAULT_ZH_HANS
   header:
-    title: 欢迎访问云起留学！
+    title: 云起留学工作室
     text: 云端梦想，<br> 起航未来！
     button: 联系我们
     buttonlink: "#联系"
