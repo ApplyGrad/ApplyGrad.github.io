@@ -197,7 +197,7 @@ zh: &DEFAULT_ZH_HANS
         icon: fas fa-graduation-cap
       - title: "咨询服务"
         desc: "导师每周开放咨询时间"
-        icon: fas fa-comments-question
+        icon: fas fa-question
 
 
   portfolio:
