@@ -194,7 +194,7 @@ zh: &DEFAULT_ZH_HANS
         icon: fas fa-laptop
       - title: "录取指导"
         desc: "学校面试辅导、录取选校建议等"
-        icon: fas fa-screen-users
+        icon: fab fa-screen-users
       - title: "咨询服务"
         desc: "导师每周开放咨询时间"
         icon: fas fa-graduation-cap
