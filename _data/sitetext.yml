@@ -184,20 +184,20 @@ zh: &DEFAULT_ZH_HANS
         desc: "初步评估、选校和专业定位、背景提升规划等"
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "申研准备"
-        desc: "cv定制、暑期实习信息、暑期科研推荐等"
+        desc: "CV定制、暑期实习信息、暑期科研推荐等"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "文书指导"
-        desc: "头脑风暴、个性化ps创作、个性化essay创作、推荐信指导等"
-        icon: fas fa-laptop
+        desc: "头脑风暴、个性化PS创作、个性化Essay创作、推荐信指导等"
+        icon: fas fa-newspaper
       - title: "网申咨询"
         desc: "网申内容校准、学校实时沟通、申请进度跟进、奖学金申请等"
-        icon: fab fa-markdown
+        icon: fas fa-laptop
       - title: "录取指导"
         desc: "学校面试辅导、录取选校建议等"
-        icon: fab fa-markdown
+        icon: fab fa-building-columns
       - title: "咨询服务"
         desc: "导师每周开放咨询时间"
-        icon: fab fa-markdown
+        icon: fab fa-graduation-cap
 
 
   portfolio:
@@ -314,7 +314,7 @@ zh: &DEFAULT_ZH_HANS
     submit: "提交"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "隐私政策"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
