@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: applygrad/agency-jekyll-theme
 
-url    : "https://applygrad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/index" # the subpath of your site, e.g. /blog
+url    : "https://applygrad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Yunqi Grad Application
 email      : zeyongj@gmail.com #this is also the email contact forms will go to
