@@ -269,7 +269,7 @@ zh: &DEFAULT_ZH_HANS
     people:
       - name: "多伦多大学"
         role: "UTSG统计系PhD在读 <br> UTSG计算机系PhD在读"
-        image: assets/img/team/utoronto.jpg
+        image: assets/img/team/ut.png
         social:
           - url: https://www.utoronto.ca/
             icon: fab fa-globe
