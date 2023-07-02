@@ -6,7 +6,7 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy ("Policy") governs the manner in which Illume Education ("we," "us," or "our") handles the personal information of users ("you," "your," "user") when visiting {{ site.title }} (the “Site”).. This Policy explains how we collect, use, protect, and share your personal information.
+This Privacy Policy ("Policy") governs the manner in which Illume Education ("we," "us," or "our") handles the personal information of users ("you," "your," "user") when visiting {{ site.title }} (the “Site”). This Policy explains how we collect, use, protect, and share your personal information.
 
 **PERSONAL INFORMATION WE COLLECT**
 
@@ -34,10 +34,34 @@ Please note, however, that while we strive to protect your personal information,
 
 We reserve the right to modify or amend this Policy at any time in response to changes in our personal data practices or relevant laws and regulations. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Therefore, we encourage you to periodically review this page for the latest information on our privacy practices.
 
+我们保留随时修改或修订本政策的权利，以应对我们个人数据处理的变化或相关法律法规的变化。我们将来可能对我们的隐私政策做出的任何更改将在此页面上发布，并在适当的情况下，通过电子邮件通知您。因此，我们建议您定期浏览此页面，以获取我们隐私政策的最新信息。
+
 **CONTACT US**
 
 If you have any questions or concerns about this Policy or our privacy practices, or if you would like to make a complaint, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-This Policy is effective as of July 2nd, 2023. Your continued use of our Site following the posting of changes to this Policy will be deemed your acceptance of those changes. Please exit the Site immediately if you do not agree to the terms of this Privacy Policy or any revised policy.
+This Policy is effective as of *July 2nd, 2023*. Your continued use of our Site following the posting of changes to this Policy will be deemed your acceptance of those changes. Please exit the Site immediately if you do not agree to the terms of this Privacy Policy or any revised policy.
 
-This Privacy Policy was last updated on July 2nd, 2023.
+This Privacy Policy was last updated on *July 2nd, 2023*.
+
+**中文版隐私政策**
+
+本隐私政策（下称“本政策”）明确规定了云起留学（下称“我们”或“我方”）对于访问我方网站（下称“本站”）的用户（下称“您”或“用户”）的个人信息的处理方式。本政策阐述了我们如何收集、使用、保护及分享您的个人信息。
+
+**我们收集的个人信息**
+
+在云起留学，我们坚决尊重并保护您的隐私。因此，无论是通过手动方式还是自动化过程，包括但不限于 cookies，在您访问我方网站时，我们目前不收集您的任何个人数据。这一做法体现了我们致力于提供无侵扰性、用户友好性环境的承诺。
+
+然而，我们必须提醒您，尽管我们会尽力保护您的个人信息，但我们无法保证您在网上公开的任何信息的安全性，因此您在公开这些信息时将自负风险。保护您的密码和计算设备以防止未经授权的访问至关重要。
+
+**关于本政策的更改**
+
+我方保留根据我方个人数据处理方式的变化或相关法律法规的变动，随时修改或修订本政策的权利。我方将在适当情况下通过电子邮件通知您，同时也将在本页发布关于隐私政策的所有更改，因此，我们建议您定期查阅此页面，以获取我方隐私做法的最新信息。
+
+**CONTACT US**
+
+如果您对本政策或我方的隐私做法有任何疑问或顾虑，或如果您希望提出投诉，欢迎您通过电子邮件至<a href="mailto:{{ site.email }}">{{ site.email }}</a>与我们联系。
+
+本政策自*2023年7月2日*起生效。若您继续使用我方网站，即视为您接受本政策的更改。若您不同意本隐私政策或任何修订后的政策，应立即停止使用本站。
+
+本隐私政策最后更新于*2023年7月2日*。
