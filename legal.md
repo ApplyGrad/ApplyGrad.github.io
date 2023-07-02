@@ -8,7 +8,7 @@ title: Privacy Policy
 
 This Privacy Policy ("Policy") governs the manner in which Illume Education ("we," "us," or "our") handles the personal information of users ("you," "your," "user") when visiting {{ site.title }} (the “Site”). This Policy explains how we collect, use, protect, and share your personal information. 
 
-In the event of any discrepancy between the Chinese and English versions of this Privacy Policy, the *English version* shall prevail.
+We have appended a Chinese translated version of our Privacy Policy following the English version for your convenience and understanding. However, please note that in the event of any discrepancies or inconsistencies between the English version and its Chinese translation, the *English version* shall prevail.
 
 **PERSONAL INFORMATION WE COLLECT**
 
