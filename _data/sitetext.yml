@@ -208,29 +208,29 @@ zh: &DEFAULT_ZH_HANS
 
   about:
     title: "关于我们"
-    text: "云起留学工作室"
+    text: "云启留学工作室"
     image: assets/img/timeline/1.jpg
     body: "选校焦虑 x，不知如何要推荐信 x，低水准文书 x，信息差的大坑 x <br> 你烦恼的，我们都懂！ <br> 最贴近大家的团队上线，带准毕业生头脑风暴，扫清障碍！ <br> 集合加拿大名校毕业导师，带给你最精准的学术指导与专业剖析！ <br> 跨领域博士生与投行前台，打造最懂你的未来规划！"
     section: 关于我们
 
   timeline:
-    title: "申研时间线"
+    title: "服务流程"
     text: "一步步助您成功"
     section: 时间线
     # left is the default
     #start_align: "left"
     events:
-      - title: "学校"
-        year: "6月"
-        desc: "111"
+      - title: "确认申研"
+        # year: "缴交定金"
+        desc: "学生缴交定金1000元人民币，如中途转变心意恕不退还，否则转为需付总费用的部分。"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "文书"
-        year: "8月"
-        desc: "222"
+      - title: "安排导师"
+        # year: "首次会议"
+        desc: "导师与学生首次会议完成后，学生补齐余款。"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "申请"
+      - title: "文书创作"
         year: "10月"
         desc: "333"
         image: assets/img/timeline/3.jpg
