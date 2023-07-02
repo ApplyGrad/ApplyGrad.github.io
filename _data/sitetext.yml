@@ -173,7 +173,6 @@ zh: &DEFAULT_ZH_HANS
     title: 云启留学工作室
     text: 云端梦想，<br> 启航未来！
     button: 联系我们
-    image: assets/img/team/2.jpg
     buttonlink: "#联系"
 
   services:
@@ -242,7 +241,9 @@ zh: &DEFAULT_ZH_HANS
         alt:
         # you can enforce the alignment
         align: right
-    end: "祝您 <br> offer <br> 多多!"
+    end: 
+      image: assets/img/timeline/1.jpg
+    # "祝您 <br> offer <br> 多多!"
 
   clients:
     section: 顾客
