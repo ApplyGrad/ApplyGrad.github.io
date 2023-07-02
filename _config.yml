@@ -17,10 +17,10 @@ remote_theme: applygrad/agency-jekyll-theme
 url    : "https://applygrad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Illume Education
+title      : 云启留学
 email      : illume.education@gmail.com #this is also the email contact forms will go to
 description: "Ask us for graduate schools selection, application, and more!"
-author     : Yunqi
+author     : Illume Education
 # logo:     #optional, defaults to site title
 #   path: assets\img\clients\creative-market.jpg
 #   height: 60 #height in px, defaults to 52px
