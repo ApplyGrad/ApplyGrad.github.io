@@ -34,8 +34,6 @@ Please note, however, that while we strive to protect your personal information,
 
 We reserve the right to modify or amend this Policy at any time in response to changes in our personal data practices or relevant laws and regulations. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Therefore, we encourage you to periodically review this page for the latest information on our privacy practices.
 
-我们保留随时修改或修订本政策的权利，以应对我们个人数据处理的变化或相关法律法规的变化。我们将来可能对我们的隐私政策做出的任何更改将在此页面上发布，并在适当的情况下，通过电子邮件通知您。因此，我们建议您定期浏览此页面，以获取我们隐私政策的最新信息。
-
 **CONTACT US**
 
 If you have any questions or concerns about this Policy or our privacy practices, or if you would like to make a complaint, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
@@ -58,7 +56,7 @@ This Privacy Policy was last updated on *July 2nd, 2023*.
 
 我方保留根据我方个人数据处理方式的变化或相关法律法规的变动，随时修改或修订本政策的权利。我方将在适当情况下通过电子邮件通知您，同时也将在本页发布关于隐私政策的所有更改，因此，我们建议您定期查阅此页面，以获取我方隐私做法的最新信息。
 
-**CONTACT US**
+**联系我们**
 
 如果您对本政策或我方的隐私做法有任何疑问或顾虑，或如果您希望提出投诉，欢迎您通过电子邮件至<a href="mailto:{{ site.email }}">{{ site.email }}</a>与我们联系。
 
