@@ -284,7 +284,7 @@ zh: &DEFAULT_ZH_HANS
         role: "欢迎咨询"
         image: assets/img/team/logo-fotor-20230702101750.png
         social:
-          - url: https://www.ed.ac.uk/
+          - url: https://www.xiaohongshu.com/explore/64a1f4090000000013011e78
             icon: fas fa-globe
 
   contact:
