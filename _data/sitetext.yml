@@ -282,14 +282,10 @@ zh: &DEFAULT_ZH_HANS
             icon: fas fa-globe
       - name: "更多导师"
         role: "欢迎咨询"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/logo-fotor-20230702101750.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.ed.ac.uk/
+            icon: fas fa-globe
 
   contact:
     title: "联系我们"
