@@ -6,7 +6,7 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy ("Policy") governs the manner in which Illume Education ("we," "us," or "our") handles the personal information of users ("you," "your," "user") when visiting {{ site.title }} (the “Site”). This Policy explains how we collect, use, protect, and share your personal information.
+This Privacy Policy ("Policy") governs the manner in which Illume Education ("we," "us," or "our") handles the personal information of users ("you," "your," "user") when visiting {{ site.title }} (the “Site”). This Policy explains how we collect, use, protect, and share your personal information. In the event of any discrepancy between the Chinese and English versions of this Privacy Policy, the *English version* shall prevail.
 
 **PERSONAL INFORMATION WE COLLECT**
 
@@ -44,7 +44,7 @@ This Privacy Policy was last updated on *July 2nd, 2023*.
 
 **中文版隐私政策**
 
-本隐私政策（下称“本政策”）明确规定了云起留学（下称“我们”或“我方”）对于访问我方网站（下称“本站”）的用户（下称“您”或“用户”）的个人信息的处理方式。本政策阐述了我们如何收集、使用、保护及分享您的个人信息。
+本隐私政策（下称“本政策”）明确规定了云起留学（下称“我们”或“我方”）对于访问我方网站（下称“本站”）的用户（下称“您”或“用户”）的个人信息的处理方式。本政策阐述了我们如何收集、使用、保护及分享您的个人信息。若本政策的中英文版本之间存在任何不一致，以*英文版本*为准。
 
 **我们收集的个人信息**
 
