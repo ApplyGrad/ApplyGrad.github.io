@@ -230,14 +230,14 @@ zh: &DEFAULT_ZH_HANS
         desc: "导师与学生首次会议完成后，学生补齐余款。"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "文书创作"
-        year: "10月"
-        desc: "333"
+      - title: "导师选校"
+        # year: "10月"
+        desc: "导师在收到学生申请后进行全面评估，提供院校选择的深度分析和建议，同时对学生的申请文书提供修改意见。导师与学生确定推荐信，保证每周的沟通交流，并在需要时提供申请辅助。如果学生未能成功入学，导师承诺在下一年免费为学生重新申请。"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "结果"
-        year: "次年3月"
-        desc: "444"
+      - title: 文书创作"
+        # year: "次年3月"
+        desc: "文书团队在云起留学保证完成申请所需的全部文书，并在文书完成初稿前后，与导师和学生进行多次沟通。在初稿确定后，我们还为学生提供2-3次修改机会，直至最终稿件完成。每篇文书都会经过Turnitin检查以确保原创性，并根据学生的背景，进行个性化订制。"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
