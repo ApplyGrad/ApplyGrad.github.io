@@ -170,9 +170,9 @@ en-AU:
 # --------------------------------
 zh: &DEFAULT_ZH_HANS
   header:
-    title: 云启留学工作室
-    text: 云端梦想，<br> 启航未来！
-    button: 联系我们
+    title: 云启留学 <br> Illume Education
+    text: 云端梦想， 启航未来！<br> Dreams Aloft, Future Bound!
+    button: 联系我们 <br> Contact Us
     buttonlink: "#联系"
 
   services:
