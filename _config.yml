@@ -18,7 +18,7 @@ url    : "https://applygrad.github.io" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Illume Education
-email      : zeyongj@gmail.com #this is also the email contact forms will go to
+email      : illume.education@gmail.com #this is also the email contact forms will go to
 description: "Ask us for graduate schools selection, application, and more!"
 author     : Yunqi
 # logo:     #optional, defaults to site title
