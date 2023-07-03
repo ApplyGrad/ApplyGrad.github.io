@@ -177,7 +177,7 @@ zh: &DEFAULT_ZH_HANS
 
   services:
     title: "服务内容"
-    text: "全力服务，为您专注！"
+    text: "全心服务，为您专注！"
     section: 服务
     list:
       - title: "前期规划"
