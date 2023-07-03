@@ -268,13 +268,13 @@ zh: &DEFAULT_ZH_HANS
     subtext: 启航梦想，共赴学术殿堂之旅！
     section: 团队
     people:
-      - name: "加拿大多伦多大学"
+      - name: "加拿大·多伦多大学"
         role: "UTSG统计系PhD在读"
         image: assets/img/team/ut.png
         social:
           - url: https://www.utoronto.ca/
             icon: fas fa-globe
-      - name: "英国爱丁堡大学"
+      - name: "英国·爱丁堡大学"
         role: "爱丁堡经济系PhD在读"
         image: assets/img/team/Edinburgh.png
         social:
